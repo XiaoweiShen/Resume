@@ -2,7 +2,7 @@
 
 >Full-stack developer
 
->[https://github.com/XiaoweiShen]()      · Phone: (587)889-6806       <shen.xiaowei@yahoo.com>     Vancouver , B.C.  
+>[https://github.com/XiaoweiShen](https://github.com/XiaoweiShen)      · Phone: (587)889-6806       <shen.xiaowei@yahoo.com>     Vancouver , B.C.  
 
 ### SNAPSHOT
 
