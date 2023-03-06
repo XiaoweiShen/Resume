@@ -2,13 +2,13 @@
 
 >Full-stack developer
 
->[https://github.com/XiaoweiShen]()      · Phone: (587)889-6806       <shen.xiaowei@yahoo.com>     Vancouver , B.C.  
+>[https://github.com/XiaoweiShen](https://github.com/XiaoweiShen)      · Phone: (587)889-6806       <shen.xiaowei@yahoo.com>     Vancouver , B.C.  
 
 ### SNAPSHOT
 
 Full-stack web developer with industry background in telecommunication,video producing and retailing. Good sense of self-learning and developer-thinking. Experience in collecting customer demands and system planning. Familiar with technical documenting and presentation. 
 
-### SKILLS**
+### SKILLS
 
 - Language: Javascript, Python, Ruby, Html, CSS
 - Frameworks: NodeJS, ReactJS, Rails, Ajax, Express, EJS, Jquery, SASS
@@ -19,10 +19,10 @@ Full-stack web developer with industry background in telecommunication,video pro
 
 ### PROJECTS
 
-- [Cocktail Spirit](): A web cocktail teaching app with Ruby as backend and React as front end
-- [Lighthouse BnB](): A full stack, NodeJs and PostgreSql based online travel accommodation app
-- [Decision Maker](): A composite multi pages app built with JS, Psql, Express, EJS, Sass and DB for social media voting and decision making
-- [Scheduler](): A React application that allows users to book and cancel interviews. combine a concise API with a WebSocket server to build a real time experience
+- [Cocktail Spirit](https://github.com/XiaoweiShen/Cocktail_spirite): A web cocktail teaching app with Ruby as backend and React as front end
+- [Lighthouse BnB](https://github.com/XiaoweiShen/LightBnB): A full stack, NodeJs and PostgreSql based online travel accommodation app
+- [Decision Maker](https://github.com/XiaoweiShen/descision-maker): A composite multi pages app built with JS, Psql, Express, EJS, Sass and DB for social media voting and decision making
+- [Scheduler](https://github.com/XiaoweiShen/scheduler): A React application that allows users to book and cancel interviews. combine a concise API with a WebSocket server to build a real time experience
 
 ### EDUCATION
 
