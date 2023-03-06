@@ -33,7 +33,7 @@ Full-stack web developer with industry background in telecommunication,video pro
 
 ### RELATED EXPERIENCE
 
-**IT Technical Sales                                                                                    2015**                
+- **IT Technical Sales                                                                                    2015**                
   Sobey Digital Tech Ltd.( Sony Group ) ,Chengdu ,China
 
 - Focused on video producing industry and provided IT system solutions
@@ -41,7 +41,7 @@ Full-stack web developer with industry background in telecommunication,video pro
 - Coordinated with senior sales execs, product and developing team to push project 
 - Performing training, presentation, road show and bidding preparation
 
-**Senior Technical Trainer                                                                              2008**                                              
+- **Senior Technical Trainer                                                                              2008**                                              
   Nortel Networks, Beijing, China								      
 
 - Worked in Asia-Pacific Training Centre, developed and delivered course of GSM/UMTS for global telecommunication operators. 
