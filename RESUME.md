@@ -19,7 +19,7 @@ Full-stack web developer with industry background in telecommunication,video pro
 
 ### PROJECTS
 
-- [Cocktail Spirit](https://github.com/XiaoweiShen/Cocktail_spirite): A web cocktail teaching app with Ruby as backend and React as front end
+- [Cocktail Shaker](https://github.com/XiaoweiShen/Combo): A web cocktail teaching app with Ruby as backend and React as front end
 - [Lighthouse BnB](https://github.com/XiaoweiShen/LightBnB): A full stack, NodeJs and PostgreSql based online travel accommodation app
 - [Decision Maker](https://github.com/XiaoweiShen/descision-maker): A composite multi pages app built with JS, Psql, Express, EJS, Sass and DB for social media voting and decision making
 - [Scheduler](https://github.com/XiaoweiShen/scheduler): A React application that allows users to book and cancel interviews. combine a concise API with a WebSocket server to build a real time experience
